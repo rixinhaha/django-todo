@@ -1,2 +1,2 @@
-# django-todo
-My Django Todo
+# My Django Todo
+This is a simple to-do-list I built using Python Django. The user is able to create new tasks, which will be displayed onto the dashboard. Upon clicking on an existing task on the dashboard, there will be a strike on that particular activity, indicating that it has been completed. There are two buttons for the Todo, one for removing completed tasks from the dashboard and one for reseting the entire list to an empty one.
